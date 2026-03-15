@@ -1,5 +1,7 @@
 # MCC
 
+https://github.com/user-attachments/assets/f8fde795-6bf6-4978-8450-b4e5f075f6b4
+
 `MCC` is a Unity project focused on **motion / character control**.
 
 It is an official implementation of the original papers built on top of Unity and Sentis, intended to validate multiple motion-generation and character-control ideas within a shared runtime framework.
